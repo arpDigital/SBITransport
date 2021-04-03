@@ -1,0 +1,18 @@
+<svg width="1204" height="419" viewBox="0 0 1204 419" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1204" height="419">
+<rect width="1204" height="419" fill="#AAAAAA"/>
+</mask>
+<g mask="url(#mask0)">
+<line x1="-1" y1="112" x2="179" y2="112" stroke="#EB3F57" stroke-width="10" stroke-linecap="round"/>
+<line x1="179" y1="112" x2="179" y2="168" stroke="#EB3F57" stroke-width="10" stroke-linecap="round"/>
+<line x1="179" y1="214" x2="179" y2="260" stroke="#EB3F57" stroke-width="10" stroke-linecap="round"/>
+<line x1="474" y1="253" x2="474" y2="306" stroke="#EB3F57" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="233" y1="122" x2="233" y2="260" stroke="#EB3F57" stroke-width="10" stroke-linecap="round"/>
+<line x1="179" y1="168" x2="-58" y2="168" stroke="#EB3F57" stroke-width="10" stroke-linecap="round"/>
+<line x1="179" y1="214" x2="-58" y2="214" stroke="#EB3F57" stroke-width="10" stroke-linecap="round"/>
+<line x1="179" y1="260" x2="-115" y2="260" stroke="#EB3F57" stroke-width="10" stroke-linecap="round"/>
+<line x1="473" y1="306" x2="-115" y2="306" stroke="#EB3F57" stroke-width="10" stroke-linecap="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M386.571 238H397.094C375.171 168.482 310.108 117.873 233 117.011V127.012C304.565 127.859 365.026 174.122 386.571 238Z" fill="#EB3F57"/>
+<line x1="391.026" y1="233.3" x2="473.3" y2="252.974" stroke="#EB3F57" stroke-width="10" stroke-linecap="round"/>
+</g>
+</svg>

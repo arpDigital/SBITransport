@@ -1,0 +1,18 @@
+<svg width="1204" height="419" viewBox="0 0 1204 419" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1204" height="419">
+<rect width="1204" height="419" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<line x1="5" y1="-5" x2="185" y2="-5" transform="matrix(-1 8.74228e-08 8.74228e-08 1 1207 118)" stroke="#515067" stroke-width="10" stroke-linecap="round"/>
+<line x1="5" y1="-5" x2="61" y2="-5" transform="matrix(-4.37114e-08 1 1 4.37114e-08 1027 108)" stroke="#515067" stroke-width="10" stroke-linecap="round"/>
+<line x1="5" y1="-5" x2="51" y2="-5" transform="matrix(4.37114e-08 1 1 -4.37114e-08 1027 210)" stroke="#515067" stroke-width="10" stroke-linecap="round"/>
+<line x1="5" y1="-5" x2="58" y2="-5" transform="matrix(-4.37114e-08 1 1 4.37114e-08 732 249)" stroke="#515067" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="5" y1="-5" x2="143" y2="-5" transform="matrix(-4.37114e-08 1 1 4.37114e-08 973 118)" stroke="#515067" stroke-width="10" stroke-linecap="round"/>
+<line x1="5" y1="-5" x2="242" y2="-5" transform="matrix(1 0 0 -1 1017 164)" stroke="#515067" stroke-width="10" stroke-linecap="round"/>
+<line x1="5" y1="-5" x2="242" y2="-5" transform="matrix(1 0 0 -1 1017 210)" stroke="#515067" stroke-width="10" stroke-linecap="round"/>
+<line x1="5" y1="-5" x2="299" y2="-5" transform="matrix(1 0 0 -1 1017 256)" stroke="#515067" stroke-width="10" stroke-linecap="round"/>
+<line x1="5" y1="-5" x2="593" y2="-5" transform="matrix(1 0 0 -1 723 302)" stroke="#515067" stroke-width="10" stroke-linecap="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M814.429 239H803.906C825.829 169.482 890.892 118.873 968 118.011V128.012C896.435 128.859 835.974 175.122 814.429 239Z" fill="#515067"/>
+<line x1="5" y1="-5" x2="89.5939" y2="-5" transform="matrix(-0.972579 0.232573 0.232573 0.972579 816 238)" stroke="#515067" stroke-width="10" stroke-linecap="round"/>
+</g>
+</svg>
